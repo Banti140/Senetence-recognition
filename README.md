@@ -78,7 +78,3 @@ With Correction clothed leaf by leaf with the dioappoistmest
 * Better Image preprocessing such as: reduce backgoround noise to handle real time image more accurately.
 * Better Decoding approach to improve accuracy. Some of the CTC Decoder found [here](https://github.com/githubharald/CTCDecoder)  
 
-Feel Free to improve this project with pull Request.
-
-
-*This is part of my last semester project of Computer Engineering From Tribhuvan University. July 2019*
